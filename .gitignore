@@ -1,0 +1,36 @@
+# node_modules folder
+node_modules
+
+# IDE files
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Compiled files
+*.map
+*.js.map
+*.css.map
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Build files
+build
+dist
+tmp
+```
+
+#enviroment variable files
+.env
+.env.test
+.env.production
+
